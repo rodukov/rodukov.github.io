@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrodukov"]=self["webpackChunkrodukov"]||[]).push([[690],{690:function(n,t,u){u.r(t),u.d(t,{default:function(){return d}});var e=u(252);const r={class:"about"},o=(0,e._)("h3",{style:{"font-family":"'Ubuntu'","text-align":"center"}},"Page Not Found (404)",-1),a=[o];function c(n,t){return(0,e.wg)(),(0,e.iD)("div",r,a)}var s=u(744);const f={},i=(0,s.Z)(f,[["render",c]]);var d=i}}]);
+//# sourceMappingURL=690.7207b878.js.map
